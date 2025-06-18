@@ -107,7 +107,7 @@ coche1.aumentarVelocidad();
 coche1.aumentarVelocidad();
 ```
 
-Nos muestra `200`. Si luego de ejecutar los métodos de ``, imprimimos los mismo:
+Nos muestra `200`. Si luego de ejecutar los métodos de `aumentarVelocidad()`, imprimimos los mismo:
 
 ```javascript
 document.write("<h1>Velocidad: " + coche1.velocidad + "</h1>");
