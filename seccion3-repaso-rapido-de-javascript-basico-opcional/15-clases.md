@@ -1,6 +1,6 @@
 # 15. Clases
 
-Creamos un nuevo fichero `clases.js` donde trabajaremos con las clases. Y cargamos el fuchero en el `index.html`:
+Creamos un nuevo fichero `clases.js` donde trabajaremos con las clases. Y cargamos el fichero en el `index.html`:
 
 ```html
 <script src="clases.js" type="text/javascript"></script>
