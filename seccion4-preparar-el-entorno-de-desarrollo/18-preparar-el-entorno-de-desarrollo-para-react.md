@@ -10,7 +10,7 @@ Se usará **Visual Studio Code**, pero podemos utilizar el que nosotros queramos
 
 ## Extensión de React
 
-**ES7 + React/Redux/React-Native**, incluye atajos y snippets.
+**ES7 + React/Redux/React-Native** de **dsznajder**, incluye atajos y snippets.
 
 ## Navegador web
 
